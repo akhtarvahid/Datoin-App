@@ -1,0 +1,26 @@
+{
+  "name": "datoin",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "animate.css": "^3.7.0",
+    "axios": "^0.18.0",
+    "jquery": "^3.3.1",
+    "prop-types": "^15.6.2",
+    "react": "^16.5.2",
+    "react-collapsible": "^2.3.1",
+    "react-dom": "^16.5.2",
+    "react-drawer": "^1.3.4",
+    "react-redux": "^5.1.1",
+    "react-router-dom": "^4.3.1",
+    "react-scripts": "1.1.5",
+    "redux": "^4.0.1",
+    "redux-thunk": "^2.3.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
